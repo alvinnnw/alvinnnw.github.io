@@ -1,0 +1,52 @@
+body {
+    background: black;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.month {
+    text-align: center;
+    background: black;
+    font-size: 1cm;
+    letter-spacing: 1px;
+    color: white;
+    padding: 25px;
+    border: 1px solid skyblue;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+table,
+th,
+td {
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 12px;
+    font: blue;
+    border-collapse: collapse;
+    border: 1px solid white;
+}
+
+tr,
+th,
+td {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+th {
+    background: red;
+    color: white;
+}
+
+td {
+    background: #3c4a8e;
+    color: white;
+}
