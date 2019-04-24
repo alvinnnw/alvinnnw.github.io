@@ -3,10 +3,10 @@
 Reference: Youtube Drew Ryan, Bootstrap Tutorial.
 https://www.youtube.com/watch?v=V_lAhqLXT9A
 
-#To make the navbar list adapt as I scroll down the page.
+To make the navbar list adapt as I scroll down the page.
 <body data-spy="scroll" data-target="#navbarResponsive">
 
-# NavBar
+Creating Nav Bar
 <div id="home">
         <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
@@ -36,10 +36,10 @@ https://www.youtube.com/watch?v=V_lAhqLXT9A
             </div>
         </nav>
 
-#Create Button which linked to Story part of the page.
+Create Button which linked to Story part of the page.
 <a class="btn btn-outline-light btn-lg" href="#story">Click Here</a> 
 
-#Carousel For the Story Part
+Carousel For the Story Part
 <div id="story" class="offset">
         <div class="row">
             <div class="col-12">
@@ -111,7 +111,7 @@ https://www.youtube.com/watch?v=V_lAhqLXT9A
     </div>
     </div>
     
-#Importing Font "Lato"
+Importing Font "Lato"
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 body {
     overflow-x: hidden;
