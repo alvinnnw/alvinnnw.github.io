@@ -48,7 +48,7 @@ body data-spy="scroll" data-target="#navbarResponsive"
 
 <a class="btn btn-outline-light btn-lg" href="#story">Click Here</a> 
 ```
-#### h4Carousel For the Story Part
+#### h4Carousel Slider with Caption For the Story Part
 ```
 
 <div id="story" class="offset">
