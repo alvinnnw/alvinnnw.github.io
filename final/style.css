@@ -37,8 +37,6 @@ body {
 
 .home-inner {
     background-image: url(img/bg3.jpg);
-    height: 100%;
-    background-position: center fixed no-repeat;
 }
 
 .container {
